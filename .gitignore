@@ -4,3 +4,5 @@ config.php
 .env.*
 !*.example
 __pycache__/
+storici/archivio-ufficiale.html
+storici/ufficiale-recenti.json
